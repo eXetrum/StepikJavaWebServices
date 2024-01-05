@@ -37,7 +37,7 @@ java -jar server.jar
 Соберите server.jar содержащий все библиотеки.  
   
 Во время проверки тестовая система запускает ваш сервер, ждет пока "Server started",  
-посылает POST запрос на
+посылает POST запрос на  
 http://localhost:8080/signup  
 посылает POST запрос на  
 http://localhost:8080/signin  
